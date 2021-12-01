@@ -1,12 +1,19 @@
 {
   "resources": [
     {"id":{"name":"o_versionUi","path":"objects/o_versionUi/o_versionUi.yy",},"order":1,},
+    {"id":{"name":"s_platformFront","path":"sprites/s_platformFront/s_platformFront.yy",},"order":1,},
+    {"id":{"name":"o_platform","path":"objects/o_platform/o_platform.yy",},"order":2,},
     {"id":{"name":"levelsOverview","path":"rooms/levelsOverview/levelsOverview.yy",},"order":2,},
+    {"id":{"name":"o_shadowController","path":"objects/o_shadowController/o_shadowController.yy",},"order":4,},
     {"id":{"name":"s_button","path":"sprites/s_button/s_button.yy",},"order":1,},
+    {"id":{"name":"s_platformColider","path":"sprites/s_platformColider/s_platformColider.yy",},"order":2,},
     {"id":{"name":"o_button","path":"objects/o_button/o_button.yy",},"order":5,},
+    {"id":{"name":"o_light","path":"objects/o_light/o_light.yy",},"order":3,},
     {"id":{"name":"O_dopie","path":"objects/O_dopie/O_dopie.yy",},"order":0,},
     {"id":{"name":"s_radial","path":"sprites/s_radial/s_radial.yy",},"order":0,},
     {"id":{"name":"o_gameNameUi","path":"objects/o_gameNameUi/o_gameNameUi.yy",},"order":3,},
+    {"id":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},"order":0,},
+    {"id":{"name":"s_light","path":"sprites/s_light/s_light.yy",},"order":3,},
     {"id":{"name":"mainMenu","path":"rooms/mainMenu/mainMenu.yy",},"order":0,},
     {"id":{"name":"o_mainUiController","path":"objects/o_mainUiController/o_mainUiController.yy",},"order":0,},
     {"id":{"name":"o_radial","path":"objects/o_radial/o_radial.yy",},"order":2,},
@@ -27,8 +34,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"mainMenu","path":"rooms/mainMenu/mainMenu.yy",},},
     {"roomId":{"name":"startingLVL","path":"rooms/startingLVL/startingLVL.yy",},},
+    {"roomId":{"name":"mainMenu","path":"rooms/mainMenu/mainMenu.yy",},},
     {"roomId":{"name":"options","path":"rooms/options/options.yy",},},
     {"roomId":{"name":"levelsOverview","path":"rooms/levelsOverview/levelsOverview.yy",},},
     {"roomId":{"name":"credits","path":"rooms/credits/credits.yy",},},
@@ -51,7 +58,7 @@
     {"folderPath":"folders/Rooms/Navigation.yy","order":3,"resourceVersion":"1.0","name":"Navigation","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Rooms/Levels.yy","order":4,"resourceVersion":"1.0","name":"Levels","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Ui.yy","order":1,"resourceVersion":"1.0","name":"Ui","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/Ui.yy","order":1,"resourceVersion":"1.0","name":"Ui","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Ui.yy","order":0,"resourceVersion":"1.0","name":"Ui","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
