@@ -11,6 +11,7 @@
     {"id":{"name":"levelsOverview","path":"rooms/levelsOverview/levelsOverview.yy",},"order":2,},
     {"id":{"name":"s_button","path":"sprites/s_button/s_button.yy",},"order":1,},
     {"id":{"name":"o_button","path":"objects/o_button/o_button.yy",},"order":5,},
+<<<<<<< Celeste
     {"id":{"name":"mainFont","path":"fonts/mainFont/mainFont.yy",},"order":1,},
 <<<<<<< Celeste
 >>>>>>> Example push Dylan
@@ -19,14 +20,14 @@
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
 >>>>>>> Celeste
 >>>>>>> fix?
+=======
+>>>>>>> fixes?
     {"id":{"name":"O_dopie","path":"objects/O_dopie/O_dopie.yy",},"order":0,},
     {"id":{"name":"s_radial","path":"sprites/s_radial/s_radial.yy",},"order":0,},
     {"id":{"name":"o_gameNameUi","path":"objects/o_gameNameUi/o_gameNameUi.yy",},"order":3,},
     {"id":{"name":"mainMenu","path":"rooms/mainMenu/mainMenu.yy",},"order":0,},
     {"id":{"name":"o_mainUiController","path":"objects/o_mainUiController/o_mainUiController.yy",},"order":0,},
     {"id":{"name":"o_radial","path":"objects/o_radial/o_radial.yy",},"order":2,},
-    {"id":{"name":"nameFont","path":"fonts/nameFont/nameFont.yy",},"order":2,},
-    {"id":{"name":"buttonFont","path":"fonts/buttonFont/buttonFont.yy",},"order":0,},
     {"id":{"name":"credits","path":"rooms/credits/credits.yy",},"order":3,},
     {"id":{"name":"options","path":"rooms/options/options.yy",},"order":1,},
     {"id":{"name":"startingLVL","path":"rooms/startingLVL/startingLVL.yy",},"order":0,},
